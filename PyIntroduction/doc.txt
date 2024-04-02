@@ -1,0 +1,5 @@
+El rápido zorro marrón salta sobre el perro perezoso.  
+Cada buen programador debe manejar bien los archivos de texto.
+Los archivos `.txt` son útiles para almacenar datos simples.
+Este es un ejemplo de contenido para tu programa.
+¡Buena suerte con tu proyecto de programación!
